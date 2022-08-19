@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "bikeName": "Pulsar",
+      "price": "1250",
+      "type": "sports",
+      "km": "5215"
+    },
+    {
+      "id": 2,
+      "bikeName": "Apache",
+      "price": "1400",
+      "type": "sports",
+      "km": "2500"
+    },
+    {
+      "id": 3,
+      "bikeName": "Splender",
+      "price": "650",
+      "type": "regular",
+      "km": "6000"
+    },
+    {
+      "id": 4,
+      "bikeName": "passion",
+      "price": "700",
+      "type": "regular",
+      "km": "800"
+    },
+    {
+      "id": 5,
+      "bikeName": "Activa",
+      "price": "700",
+      "type": "scooter",
+      "km": "1500"
+    }
+  ]

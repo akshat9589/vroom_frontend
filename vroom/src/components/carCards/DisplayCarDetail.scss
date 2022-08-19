@@ -1,0 +1,59 @@
+.parent {
+    margin: 40px;
+    width: 100%;
+    height: 150px;
+    background-color: #e6e9f0;
+    border-radius: 15px;
+    padding: 20px;
+  }
+  .head{
+    margin-top: 25px;
+  }
+  .t1 {
+    margin-top: 20px;
+    font-weight: bold;
+    display: block;
+    font-size: 22px;
+  }
+  .st1 {
+    font-size: 12px;
+  }
+  .travel{
+    margin-top: 20px;
+    text-align: left;
+    
+  }
+  .time {
+    margin-top: 20px;
+    display: block;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .loc {
+    font-size: 13px;
+  }
+  
+  .line {
+    margin-top: -10px;
+    height: 3px;
+    background: green;
+    width: 130px;
+    background: green;
+  }
+  
+  .viewAll {
+    margin-top: 30px;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+    border-radius: 27px;
+    color: rgb(86, 86, 254);
+    font-weight: bold;
+    border-color: blue;
+    background-color: lightblue;
+    cursor: pointer;
+  }
+  .viewAll:hover {
+    transform: scale(1.2);
+  }
